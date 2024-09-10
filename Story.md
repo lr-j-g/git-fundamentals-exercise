@@ -11,3 +11,6 @@ Once upon a time, in the office of a software development firm, there was a prog
 
 One day, he was invited to join a key project.
 
+# Chapter 3: The Promotion
+
+The boss decided to have a talk with him.
