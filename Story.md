@@ -12,6 +12,6 @@ The boss decided to have a talk with him. "Steve, it's time you became a Team Le
 # Chapter 4: Leadership
 Steve was now a team leader. It was harder than he thought.
 # Chapter 5: Prod Issue
-A critical prod issue has occured. Everyone looked to Steve for the solution.
+A critical prod issue has occured. Everyone looked to Steve for the solution. Steve decided that the team needed to replicate the bug first.
 # Chapter 6: Resolution
 Steve found the bug, thanks to careful replication
